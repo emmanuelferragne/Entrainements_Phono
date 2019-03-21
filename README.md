@@ -12,6 +12,7 @@ Open TRAINING_ODDITY.praat with Praat and Run it.
 In the first dialog box:
 - choose any of the 2 sessions from the ''cond'' drop-down menu
 - enter the ID of your choice in the text box
+
 Then, you'll be prompted to select a file; just select TRAINING_ODDITY.praat again. 
 Instructions will appear on the screen; just follow them. 
 
