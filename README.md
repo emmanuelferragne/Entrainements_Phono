@@ -8,6 +8,11 @@ You need will [Praat](praat.org), correct soundcard settings with the right outp
 ## Perception
 
 The PERCEPTION folder contains 4 types of perceptual experiments (2-AFC, 5-AFC, AX, Oddity). Let's go through one of them to illustrate how they work. 
+Open TRAINING_ODDITY.praat with Praat and Run it. 
+In the first dialog box:
+- choose any of the 2 sessions from the ''cond'' drop-down menu
+- enter the ID of your choice in the text box
+
 
 ## Production
 
