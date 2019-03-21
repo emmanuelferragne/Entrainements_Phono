@@ -1,0 +1,173 @@
+File type = "ooTextFile"
+Object class = "Discriminant 1"
+
+eigen? <exists> 
+numberOfEigenvalues = 4 
+dimension = 4 
+eigenvalues []: 
+    eigenvalues [1] = 30.61378572586411 
+    eigenvalues [2] = 1.738932988836484 
+    eigenvalues [3] = 0.7579675626309581 
+    eigenvalues [4] = 0.06381404960790665 
+eigenvectors [] []: 
+    eigenvectors [1]:
+        eigenvectors [1] [1] = 0.6745939943205269 
+        eigenvectors [1] [2] = -0.7146672069322634 
+        eigenvectors [1] [3] = -0.008155462656009777 
+        eigenvectors [1] [4] = 0.18468138669389728 
+    eigenvectors [2]:
+        eigenvectors [2] [1] = 0.6964767141169147 
+        eigenvectors [2] [2] = 0.5539335769718594 
+        eigenvectors [2] [3] = -0.20124167477136043 
+        eigenvectors [2] [4] = -0.4093648340188548 
+    eigenvectors [3]:
+        eigenvectors [3] [1] = 0.24441649562807344 
+        eigenvectors [3] [2] = 0.4002436548419952 
+        eigenvectors [3] [3] = 0.5625477626368596 
+        eigenvectors [3] [4] = 0.6808858995278705 
+    eigenvectors [4]:
+        eigenvectors [4] [1] = -0.010183623347036179 
+        eigenvectors [4] [2] = 0.14904157942507296 
+        eigenvectors [4] [3] = -0.8018574009862026 
+        eigenvectors [4] [4] = 0.5785392034267493 
+numberOfGroups = 5 
+groups? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "SSCP" 
+        name = "A" 
+        numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+        numberOfRows = 4 
+row [1]: "F1"	612032.2651024492	431704.3046541444	448258.649963071	-138200.9639649643
+row [2]: "F2"	431704.3046541444	1063866.078851659	-383235.0925935448	-169115.88013027
+row [3]: "F3"	448258.649963071	-383235.0925935448	8342844.672056598	88163.83230065883
+row [4]: "Duree"	-138200.9639649643	-169115.88013027	88163.83230065883	386253.3730158729
+        numberOfObservations = 126 
+        centroid []: 
+            centroid [1] = 756.133541678571 
+            centroid [2] = 1245.6654565396832 
+            centroid [3] = 3048.730483182538 
+            centroid [4] = 269.75396825396825 
+    item [2]:
+        class = "SSCP" 
+        name = "I" 
+        numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+        numberOfRows = 4 
+row [1]: "F1"	161064.36923672387	149562.88778276797	-293712.0682920743	-15214.165204047606
+row [2]: "F2"	149562.88778276797	2158667.807482454	2175909.336218706	-98271.57686733326
+row [3]: "F3"	-293712.0682920743	2175909.336218706	8180393.191802266	268885.12874744437
+row [4]: "Duree"	-15214.165204047606	-98271.57686733326	268885.12874744437	685392.6349206349
+        numberOfObservations = 126 
+        centroid []: 
+            centroid [1] = 372.5762412738094 
+            centroid [2] = 2849.805339166667 
+            centroid [3] = 3492.036053944444 
+            centroid [4] = 196.34920634920636 
+    item [3]:
+        class = "SSCP" 
+        name = "a" 
+        numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+        numberOfRows = 4 
+row [1]: "F1"	2261163.629821334	327436.94278672314	722964.7346413222	-390071.60138346435
+row [2]: "F2"	327436.94278672314	1764635.4509814722	277686.6039257093	-124620.35175084927
+row [3]: "F3"	722964.7346413222	277686.6039257093	4007886.6711656246	228126.11874748417
+row [4]: "Duree"	-390071.60138346435	-124620.35175084927	228126.11874748417	558740.0396825398
+        numberOfObservations = 126 
+        centroid []: 
+            centroid [1] = 987.9519773214288 
+            centroid [2] = 1660.8874412460311 
+            centroid [3] = 2887.562766579367 
+            centroid [4] = 164.8015873015873 
+    item [4]:
+        class = "SSCP" 
+        name = "i" 
+        numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+        numberOfRows = 4 
+row [1]: "F1"	421153.8310553408	-300380.4997341045	-6394.632600596067	-77347.01536975398
+row [2]: "F2"	-300380.4997341045	3735120.928797096	1828132.2464773883	35943.9622058254
+row [3]: "F3"	-6394.632600596067	1828132.2464773883	4669812.134110238	-102698.73015666672
+row [4]: "Duree"	-77347.01536975398	35943.9622058254	-102698.73015666672	122326.70634920635
+        numberOfObservations = 126 
+        centroid []: 
+            centroid [1] = 555.2192601031749 
+            centroid [2] = 2338.8469235396815 
+            centroid [3] = 3096.6777523333335 
+            centroid [4] = 129.13492063492063 
+    item [5]:
+        class = "SSCP" 
+        name = "v" 
+        numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+        numberOfRows = 4 
+row [1]: "F1"	1189828.6284499997	492734.60948438867	520580.63719876145	-169501.72018072216
+row [2]: "F2"	492734.60948438867	1734898.9117952916	48798.29038656333	-60482.83675366664
+row [3]: "F3"	520580.63719876145	48798.29038656333	6579679.600041572	4272.782465111117
+row [4]: "Duree"	-169501.72018072216	-60482.83675366664	4272.782465111117	116252.44444444442
+        numberOfObservations = 126 
+        centroid []: 
+            centroid [1] = 804.94084234127 
+            centroid [2] = 1420.6292404523808 
+            centroid [3] = 2993.4791844365072 
+            centroid [4] = 124.88888888888889 
+total? <exists> 
+numberOfColumns = 4 
+columnLabels []: 
+"F1"	"F2"	"F3"	"Duree"	
+numberOfRows = 4 
+row [1]: "F1"	33012911.873751238	-65721861.74981201	-24189234.778576266	-1191054.7265651065
+row [2]: "F2"	-65721861.74981201	238490917.49595174	67734567.8488341	-4879721.959780289
+row [3]: "F3"	-24189234.778576266	67734567.8488341	58585828.84539246	1889347.6422428556
+row [4]: "Duree"	-1191054.7265651065	-4879721.959780289	1889347.6422428556	3649738.871428571
+numberOfObservations = 630 
+centroid []: 
+    centroid [1] = 695.3643725436502 
+    centroid [2] = 1903.166880188889 
+    centroid [3] = 3103.69724809524 
+    centroid [4] = 176.9857142857143 
+aprioriProbabilities []: 
+    aprioriProbabilities [1] = 0.2 
+    aprioriProbabilities [2] = 0.2 
+    aprioriProbabilities [3] = 0.2 
+    aprioriProbabilities [4] = 0.2 
+    aprioriProbabilities [5] = 0.2 
+costs [] []: 
+    costs [1]:
+        costs [1] [1] = 0 
+        costs [1] [2] = 1 
+        costs [1] [3] = 1 
+        costs [1] [4] = 1 
+        costs [1] [5] = 1 
+    costs [2]:
+        costs [2] [1] = 1 
+        costs [2] [2] = 0 
+        costs [2] [3] = 1 
+        costs [2] [4] = 1 
+        costs [2] [5] = 1 
+    costs [3]:
+        costs [3] [1] = 1 
+        costs [3] [2] = 1 
+        costs [3] [3] = 0 
+        costs [3] [4] = 1 
+        costs [3] [5] = 1 
+    costs [4]:
+        costs [4] [1] = 1 
+        costs [4] [2] = 1 
+        costs [4] [3] = 1 
+        costs [4] [4] = 0 
+        costs [4] [5] = 1 
+    costs [5]:
+        costs [5] [1] = 1 
+        costs [5] [2] = 1 
+        costs [5] [3] = 1 
+        costs [5] [4] = 1 
+        costs [5] [5] = 0 
