@@ -3,4 +3,11 @@ This is a series a Praat scripts [Jennifer Krzonowski](http://www.ddl.cnrs.fr/An
 - /iː/ vs /ɪ/
 - /æ/ vs /ɑː/ vs /ʌ/
 
+You need will [Praat](praat.org), correct soundcard settings with the right outputs and inputs enabled, and to download or clone this repo.
+
+## Perception
+
+The PERCEPTION folder contains 4 types of perceptual experiments (2-AFC, 5-AFC, AX, Oddity). Let's go through one of them to illustrate how they work. 
+
+## Production
 
