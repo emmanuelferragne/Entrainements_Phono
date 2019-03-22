@@ -25,5 +25,5 @@ To get started, follow the same steps as with TRAINING_ODDITY.praat, this time w
 Then follow the instructions, and for every item you record, you'll get feedback as exemplified by the image:
 
 <p align="center">
-<img src="https://github.com/emmanuelferragne/Entrainements_Phono/blob/master/productionScreen.png" width="400"/>
+<img src="https://github.com/emmanuelferragne/Entrainements_Phono/blob/master/productionScreen.png" width="600"/>
 </p>
