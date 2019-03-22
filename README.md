@@ -22,4 +22,4 @@ The PRODUCTION folder contains training exercises based on repetition. For optim
 
 To get started, follow the same steps as with TRAINING_ODDITY.praat, this time with TRAINING_Prod1.praat. The only difference is you'll be prompted to provide your ''gender''; what this really means is: is your voice closer to a typical man's or woman's voice?
 
-Then follow the instructions, and for every item your record, you'll get feedback as exemplified by the image:
+Then follow the instructions, and for every item you record, you'll get feedback as exemplified by the image:
