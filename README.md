@@ -18,3 +18,8 @@ Instructions will appear on the screen.
 
 ## Production
 
+The PRODUCTION folder contains training exercises based on repetition. For optimal results, a good microphone and a very quiet environment are needed. Part of the method is based on automatic formant extraction, which is not 100% accurate. From our experience, it is good enough under optimal noise conditions and with typical voices. 
+
+To get started, follow the same steps as with TRAINING_ODDITY.praat, this time with TRAINING_Prod1.praat. The only difference is you'll be prompted to provide your ''gender''; what this really means is: is your voice closer to a typical man's or woman's voice?
+
+Then follow the instructions, and for every item your record, you'll get feedback as exemplified by the image:
