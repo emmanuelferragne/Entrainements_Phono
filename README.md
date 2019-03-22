@@ -3,7 +3,7 @@ This is a series of Praat scripts [Jennifer Krzonowski](http://www.ddl.cnrs.fr/A
 - /iː/ vs /ɪ/
 - /æ/ vs /ɑː/ vs /ʌ/
 
-You need will [Praat](praat.org), correct soundcard settings with the right outputs and inputs enabled, and to download or clone this repo.
+You need will [Praat](http://www.fon.hum.uva.nl/praat/), correct soundcard settings with the right outputs and inputs enabled, and to download or clone this repo.
 
 ## Perception
 
