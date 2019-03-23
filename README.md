@@ -5,6 +5,9 @@ This is a series of Praat scripts [Jennifer Krzonowski](http://www.ddl.cnrs.fr/A
 
 You will need [Praat](http://www.fon.hum.uva.nl/praat/), correct soundcard settings with the right outputs and inputs enabled, and to download or clone this repo.
 
+If you use these scripts for your research, please consider citing:
+Krzonowski, J., Ferragne, E. & Pellegrino, F., 2015, Effects of perception and production trainings on the production of English vowels by French native learners, *proc. of 6th ISEL Conference on Experimental Linguistics*, Athens, Greece, 26-27 June. 
+
 ## Perception
 
 The PERCEPTION folder contains 4 types of perceptual experiments (2-AFC, 5-AFC, AX, Oddity). Let's go through one of them to illustrate how they work. 
